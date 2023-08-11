@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /research/
-description: My primary research for the 2023-2024 school year.  
+description: My research projects for the 2023-2024 school year.  
 layout: list-grid
 show_author_byline: true
 show_button_links: false
