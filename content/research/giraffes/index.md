@@ -1,127 +1,37 @@
 ---
-author: Eric Anderson (really)
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: Artists Books as Alternative Historical Method in South Asia
 tags:
 - hugo-site
-title: Thesis
+title: You Don't Read a Book, You Speak Into It
+excerpt: My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as exemplars of this alternative historical method, providing insight into how art and text can work together to provide novel insight into how to represent the complexity of modern South Asian history. Both books come from the perspectives of religious minorities navigating oppression and violence, while also commemorating their community's resilience, creativity, and culture. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and creative expression outside of nationalist historical narratives.
 ---
 
-![Tachyons Logo Script](Thombu.jpg)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+## "If the small voice of history gets a hearing at all...it will do so only by interrupting the telling in the dominant version, breaking up its storyline and making a mess of its plot." 
+
+### - Ranajit Guha, ["The Small Voice of History"](https://archive.org/details/in.ernet.dli.2015.149176/page/n2/mode/1up)
 
 ---
 
-### Because Speed
+## The Question of History
 
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
+The preceding quote comes from Ranajit Guha's seminal essay "The Small Voice of History," in which he identifies the narrative structure of typical history writing as essentially colonial, statist, and oppressive. To truly write a postcolonial history, one must embrace "a certain disorderliness," a willingness to embrace multivocality, ambiguity, and messiness over a singular, nationalist story. 
 
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
+My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as exemplars of this alternative historical method, providing insight into how art and text can work together to provide novel insight into how to represent the complexity of modern South Asian history. Both books come from the perspectives of religious minorities navigating oppression and violence, while also commemorating their community's resilience, creativity, and culture. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and creative expression outside of nationalist historical narratives.  
 
-### BYOTachyons
+## Story of a Brush
+#### M.F. Husain
 
-One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
-contributed by the community. All those components are built to work with the
-Tachyons classes, so they will work in this theme too! You can copy/paste
-components in order to quickly block out a page, then fill in your content.
+![Story of a Brush](brush-cover.jpg)
+![Portrait](portrait.jpg)
 
-### Taste the Rainbow
+Published by the Pundole Gallery in 1983, <i>Story of a Brush</i> commemorates Maqbool Fida Husain's twenty-year relationship with the gallery. Part autobiography, part philososphical meditation, and part marketing material, <i>Story of a Brush</i> is a distinct and difficult-to-define book that starkly contrasts with the typical notion that artists books are created outside of institutional settings and the art market. The book tells the story of Husain's life and art career in his characteristically ambiguous fashion, often anthropomorphizing the brush itself. <i>Story of a Brush</i> is a key example of Husain's interest in writing his own art history, one that eschews any easy definitions of his own identity. 
 
-We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. In the
-site configuration file (`config.toml`), there is a full set of color parameters
-giving you control over the theme color scheme. For an option like `siteBgColor`
-for example, you can just type one of the predefined color names from Tachyons
-and save the file. You can totally customize the theme colors within minutes of
-installing the theme.
+## The Incomplete Thombu
 
-```toml
-# basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
-siteBgColor = "near-white"
-sidebarBgColor = "light-gray"
-headingColor = "black"
-textColor = "dark-gray"
-sidebarTextColor = "mid-gray"
-bodyLinkColor = "blue"
-navLinkColor = "near-black"
-sidebarLinkColor = "near-black"
-footerTextColor = "silver"
-buttonTextColor = "near-white"
-buttonBgColor = "black"
-buttonHoverTextColor = "white"
-buttonHoverBgColor = "blue"
-borderColor = "moon-gray"
-```
+![Thombu](thombu.jpg)
+![Book](open.jpg)
 
-### Dig Deeper
-
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. We built Blogophonic for you, too. There is a bypass of these
-predefined colors built in, you just need to dig a little deeper. In the theme
-assets, locate and open the main SCSS file (`/assets/main.scss`). After the
-crazy looking variables you probably don't recognize and directly following the
-Tachyons import (`@import 'tachyons';`) you'll see a comment that looks just
-like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-// @import 'custom-colors';
-```
-
-Once you uncomment the `custom-colors` import, it will look like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-@import "custom-colors";
-```
-
-Save that change, and now the color options in the `config.toml` are no longer
-active – they've been bypassed. To customize the colors, locate and open the
-`custom-colors` file found in the theme assets (`/assets/custom-colors.scss`).
-At the top of that file, you'll find a whole new set of variables for all the
-same color options, but this time you get to assign your own HEX codes.
-
-```scss
-// set your custom colors here
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
+A <i>thombu</i> (or <i>tombo</i>) was a type of record book used by Portugese and Dutch colonial governments, one which recorded demographic information about families, their land holdings, their caste, required service to the sovereign, and occupation. Shanaathanan's <i>thombu,</i> published in 2011, tells the stories of eighty anonymous Northern Sri Lankan Tamils and Muslims displaced by the Sri Lankan Civil War, a subversive reinterpretation of the colonial document that foregrounds its incompleteness. Shanaathanan asked each participant to draw a layout of the home they lost in the war. As they drew, he recorded their stories and memories of life before the war and/or the circumstances of their displacement. Each entry in the <i>thombu</i> consists of the hand-drawn layout, a printed architectural rendering based on the drawing, an excerpt from the conversation about home, and Shanaathanan's own interpretation of their story, rendered in a drawing. Each entry commemorates the forgotten home and dissects the historial process, showing record-creation, modification, and interpretation. 
