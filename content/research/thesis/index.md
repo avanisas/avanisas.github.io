@@ -5,7 +5,7 @@ subtitle: Artists Books as Alternative Historical Method in South Asia
 tags:
 - hugo-site
 title: You Don't Read a Book, You Speak Into It
-excerpt: My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as exemplars of this alternative historical method, providing insight into how art and text can work together to provide novel insight into how to represent the complexity of modern South Asian history. Both books come from the perspectives of religious minorities navigating oppression and violence, while also commemorating their community's resilience, creativity, and culture. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and creative expression outside of nationalist historical narratives.
+excerpt: My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as explorations of alternative methods of narrativizing history, providing insight into how art and text can work together to represent the complexity of modern South Asian history. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and storytelling that exists outside of nationalist history.
 ---
 
 
@@ -19,7 +19,7 @@ excerpt: My thesis considers two artists books, M.F. Husain's <i>Story of a Brus
 
 The preceding quote comes from Ranajit Guha's seminal essay "The Small Voice of History," in which he identifies the narrative structure of typical history writing as essentially colonial, statist, and oppressive. To truly write a postcolonial history, one must embrace "a certain disorderliness," a willingness to embrace multivocality, ambiguity, and messiness over a singular, nationalist story. 
 
-My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as exemplars of this alternative historical method, providing insight into how art and text can work together to provide novel insight into how to represent the complexity of modern South Asian history. Both books come from the perspectives of religious minorities navigating oppression and violence, while also commemorating their community's resilience, creativity, and culture. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and creative expression outside of nationalist historical narratives.  
+My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as exemplars of this alternative historical method, providing insight into how art and text can work together to represent the complexity of modern South Asian history. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and storytelling that exists outside of nationalist history.
 
 ## Story of a Brush
 #### M.F. Husain

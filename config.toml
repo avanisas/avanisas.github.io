@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/AS.png  "
+  logo = "/img/AS.png"
+  mainSections = ["blog", "project", "talk", "collection"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = ""
   
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
@@ -100,7 +100,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Curatorial"
     title = "Curatorial"
-    url = "/project/"
+    url = "/curatorial/"
     weight = 3
   [[menu.header]]
     name = "Writing"
@@ -110,7 +110,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Inspiration"
     title = "Inspiration"
-    url = "/talk/"
+    url = "/collection/"
     weight = 5
     
   # Configure footer  

@@ -7,7 +7,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
-    text_link_url: /project/
+    text_link_url: /curatorial/
 description: Give your projects a place to live online.
 layout: list-sidebar
 show_author_byline: true
