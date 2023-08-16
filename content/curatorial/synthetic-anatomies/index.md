@@ -10,14 +10,13 @@ excerpt: Building this static site generator theme was the first time I used an 
   (or Functional) CSS system like Tachyons. It’s a design system that provides very
   small (which means fast) CSS modules that you can use in your HTML.
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: On View May 2020 - May 2021 in the Museum of Fine Arts, Houston 
 tags:
 - hugo-site
-title: Tachyons for Style
+title: Synthetic Anatomies
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+![Tachyons Logo Script](sculptures.png)
 
 ## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
 
