@@ -16,9 +16,8 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "Projects I completed as a Mellon Undergraduate Curatorial Fellow at the Museum of Fine Arts, Houston.
-  
-  Pictured above: Nakashima Harumi, Work - 0808, 2008"
+  description: "Projects I completed as a Mellon Undergraduate Curatorial Fellow at the Museum of Fine Arts, Houston.<br>Pictured Above: Nakashima Harumi, Work-0808, 2008
+  "
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""

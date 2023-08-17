@@ -1,126 +1,30 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: Synthetic Anatomies was the culmination of my two-year curatorial fellowship. After the Asian Art department received a gift of historic and contemporary East Asian art from Gabrielle Lurie, I researched and wrote acquisition reports for every work in the collection. Afterwards, I identified key works ideal for display, and put together a one-year installation juxtaposing Lurie's gifts with other key objects from the permanent collection. The installation highlights historic and contemporary East Asian artists who idealize, distort, or abstract the body, exploring how nonrealistic depictions of the figure reflect changing social mores and responses to universal realities like war, trauma, and immigration.  
 layout: single
-subtitle: On View May 2020 - May 2021 in the Museum of Fine Arts, Houston 
-tags:
-- hugo-site
+subtitle: On View May 2021 - May 2022 
 title: Synthetic Anatomies
 ---
 
-![Tachyons Logo Script](sculptures.png)
+### Introduction
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+{{< figure src="gallery1.jpg">}}
 
----
+<i>Synthetic Anatomies </i>features East Asian artworks that idealize, abstract, or distort the body. These manipulations undermine the association between the body and the individual. Instead of acting as portraits, the works explore shared experiences like immigration, war, and the search for enlightenment. 
 
-### Because Speed
+The term “synthetic” refers to “synthesis,” or the act of combining different materials to form a new product, often a man-made alternative to a natural process. These artworks are products of synthesis—the contemporary artists draw on varied resources like traditional techniques, avant-garde movements across Europe and Asia, and their own experiments with form and material. Similarly, the historical works are shaped by artistic exchange, circulating technologies, and religious practices. 
 
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
+The objects in this gallery challenge easy categorizations like representation and abstraction or tradition and modernity. Instead, they incorporate a range of inspirations that solidify the abstract, giving shape to experiences, values, and identities that elude simple definitions.  
 
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
 
-### BYOTachyons
+### The Curatorial Process
 
-One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
-contributed by the community. All those components are built to work with the
-Tachyons classes, so they will work in this theme too! You can copy/paste
-components in order to quickly block out a page, then fill in your content.
+<i>Synthetic Anatomies</i> draws on objects donated by the significant  collector Gabrielle Lurie, placed in conversation with objects from the Museum of Fine Arts, Houston's permanent collection. For my final project as a Curatorial Fellow, I processed this incoming collection by researching each object, writing an acquisition report, and selecting objects to highlight in the installation. 
 
-### Taste the Rainbow
+<p>The exhibition was installed in a gallery located between the Arts of China and Arts of Japan permanent gallery, emphasizing the multicultural nature of the exhibition and encouraging audiences to see both the distinctions and connections between Chinese, Japanese, and Korean artworks of the present and past. 
 
-We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. In the
-site configuration file (`config.toml`), there is a full set of color parameters
-giving you control over the theme color scheme. For an option like `siteBgColor`
-for example, you can just type one of the predefined color names from Tachyons
-and save the file. You can totally customize the theme colors within minutes of
-installing the theme.
+### Additional Images 
 
-```toml
-# basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
-siteBgColor = "near-white"
-sidebarBgColor = "light-gray"
-headingColor = "black"
-textColor = "dark-gray"
-sidebarTextColor = "mid-gray"
-bodyLinkColor = "blue"
-navLinkColor = "near-black"
-sidebarLinkColor = "near-black"
-footerTextColor = "silver"
-buttonTextColor = "near-white"
-buttonBgColor = "black"
-buttonHoverTextColor = "white"
-buttonHoverBgColor = "blue"
-borderColor = "moon-gray"
-```
-
-### Dig Deeper
-
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. We built Blogophonic for you, too. There is a bypass of these
-predefined colors built in, you just need to dig a little deeper. In the theme
-assets, locate and open the main SCSS file (`/assets/main.scss`). After the
-crazy looking variables you probably don't recognize and directly following the
-Tachyons import (`@import 'tachyons';`) you'll see a comment that looks just
-like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-// @import 'custom-colors';
-```
-
-Once you uncomment the `custom-colors` import, it will look like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-@import "custom-colors";
-```
-
-Save that change, and now the color options in the `config.toml` are no longer
-active – they've been bypassed. To customize the colors, locate and open the
-`custom-colors` file found in the theme assets (`/assets/custom-colors.scss`).
-At the top of that file, you'll find a whole new set of variables for all the
-same color options, but this time you get to assign your own HEX codes.
-
-```scss
-// set your custom colors here
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
+{{< figure src="Gallery Installation View 1.jpg">}}
+{{< figure src="Gallery Installation View 3.jpg">}}
+{{< figure src="Gallery Installation View 5.jpg">}}

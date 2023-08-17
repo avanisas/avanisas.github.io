@@ -1,69 +1,24 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-02"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: Conceived as a two-year rotation,Capturing the Subcontinent juxtaposes Huma Bhabha's Reconstructions portfolio with historic and contemporary South Asian photography from the Museum of Fine Arts Houston's permanent collection. Bhabha's portfolio, which features her ominous, looming figures painted on photographs of the Pakistani landscape, recalls South Asia's rich tradition of painted photography, as well as the tradition of landscape and monument photography, often utilized by the British to depict India as backwards, decaying, and ripe for conquest. This rotation highlights various aspects of Indian photography history - the colonial landscape, portraiture and studio photography, contemporary manipulated photography - to contextualize Bhabha's portfolio and introduce some of the unique facets of South Asian photography.
 featured: true
-layout: single-sidebar
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
-- icon: newspaper
-  icon_pack: far
-  name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
-subtitle: ""
-tags:
-- hugo-site
+layout: single
+subtitle: "On View May 2021 - May 2023"
 title: Capturing the Subcontinent
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
+### Introduction
 
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
+{{< figure src="Gallery Installation View 4.jpg">}}
 
----
+This installation features photographs of India (later India and Pakistan) from the 1860s to the present day. These works reveal both the seismic political changes of the era and the continuing importance of artistic traditions. Many of these images are painted, staged, or manipulated, undermining the supposed objectivity of photography and elucidating changing ideas about how we understand and value images. 
 
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
 
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
+### The Curatorial Process
 
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
+This set of objects was installed in three cases in the Arts of India gallery that previously held textiles and miniature paintings. The installation primary centers of contemporary Pakistani artist Huma Bhabha's <i>Reconstructions</i> Portfolio. The portfolio consists of sixteen photographs that she took of the Pakistani landscape, modified with ink drawings of towering figures and large feet. The haunting, conceptual images evoke various photography traditions in South Asia, including the courtly practice of painting photography, the colonial bureaucracy's investment in landscape and archaeological photography, and fellow contemporary artists' subversive approaches to these various traditions. While I initially considered featuring the portfolio in <i>Synthetic Anatomies,</i> my supervisors allowed me to build a separate installation around these prints for the Arts of India gallery, contextualizing them with other South Asian objects and bringing a new perspective to the gallery, which primarily focused on Hindu and Buddhist objects. 
 
----
+### Additional Images
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
-
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
-
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
-
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
-
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
-
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
-
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+{{< figure src="landscapes.jpg">}}
+{{< figure src="more.jpg">}}
