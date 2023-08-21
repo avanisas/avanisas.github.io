@@ -1,9 +1,9 @@
 ---
-date: "2021-01-01"
+date: 
 draft: false
 excerpt: How to prepare ahead of time.
 subtitle: ""
-title: Prework
+title: Christie's Essays
 weight: 1
 ---
 
