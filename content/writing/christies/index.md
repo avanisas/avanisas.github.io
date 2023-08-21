@@ -1,71 +1,79 @@
 ---
 date: 
 draft: false
-excerpt: How to prepare ahead of time.
+excerpt: As a graduate trainee at Christie's, I wrote several lot essays and lot notes for the Indian, Himalayan, & Southeast Asian, South Asian Modern + Contemporary, and Modern & Impressionist department auction catalogues. Click here to see some of my contributions! 
 subtitle: ""
 title: Christie's Essays
 weight: 1
 ---
 
-Welcome to the [Introducing Yourself Online](/) workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
 
-## Set up RStudio Cloud
+## South Asian Modern + Contemporary 
 
-Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.
+![Jogen](featured.jpg)<br>
+[Two Women and the Swan](https://www.christies.com/lot/lot-6359061?ldp_breadcrumb=back&intObjectID=6359061&from=salessummary&lid=1)
+<br>Executed by Jogen Chowdhury in 1995. <br>Sold in the South Asian Modern + Contemporary Sale for $201,600 in March 2022.
 
-## Set up GitHub
+![Hebbar](featured.jpg)<br>
+[Untitled (Construction)](https://www.christies.com/lot/lot-6359064?ldp_breadcrumb=back&intObjectID=6359064&from=salessummary&lid=1)
+<br>Executed by K.K. Hebbar in 1962. <br>Sold in the South Asian Modern + Contemporary Sale for $126,000 in March 2022.
 
-We will be using GitHub in this workshop for version control and publishing. Sign up for a free GitHub.com account at <https://github.com/join> if you don't already have one. Also:
+![Jagdish](featured.jpg) <br>
+[Text Decoded II](https://www.christies.com/lot/lot-6359064?ldp_breadcrumb=back&intObjectID=6359064&from=salessummary&lid=1)
+<br>Executed by Jagdish Swaminathan in 1993.<br> Sold in the South Asian Modern + Contemporary Sale for $302,400 in March 2022.
 
-+ Complete these [installation instructions](https://happygitwithr.com/install-intro.html).
-    
-+ Test your connection between GitHub and RStudio following [these steps](https://happygitwithr.com/connect-intro.html). 
-    
-+ **NOTE:** We *strongly recommend* that if you are not already a fluent GitHub user you choose [HTTPS over SSH](https://happygitwithr.com/credential-caching.html).
+![Broota](featured.jpg)<br>
+[Scripted in Time II](https://www.christies.com/lot/lot-6359083?ldp_breadcrumb=back&intObjectID=6359083&from=salessummary&lid=1)
+<br>Executed by Rameshwar Broota in 1995.<br> Sold in the South Asian Modern + Contemporary Sale for $302,400 in March 2022.
 
-## Brush up on markdown
+![Bikash](featured.jpg)<br>
+[Untitled (Red Balloon)](https://www.christies.com/en/lot/lot-6359131)
+<br>Executed by Bikash Bhattacharjee.<br> Sold in the South Asian Modern + Contemporary Sale for 126,000 in March 2022.
 
-Please complete this [10-minute interactive tutorial on Markdown](https://commonmark.org/help/tutorial/). 
+![Meera](featured.jpg)<br>
+[Untitled](https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/meera-mukherjee-1923-1998-16/142951?ldp_breadcrumb=back)
+<br>Executed by Meera Mukherjee.<br> Sold in the South Asian Modern + Contemporary Online Sale for 20,160 in March 2022.
 
-## Installations
+![Arup](featured.jpg)<br>
+[Untitled (Mahakala)](https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/arup-das-1924-2004-54/142970?ldp_breadcrumb=back)
+<br>Executed by Arup Das.<br> Sold in the South Asian Modern + Contemporary Online Sale for 10,080 in March 2022.
 
-Please bring a laptop that has the following installed:
+## Indian, Himalayan, & Southeast Asian
 
-+ A recent version of R (>=3.6.0), which is available for free at https://cloud.r-project.org/
-    
-+ A recent version of RStudio Desktop (>=1.4), available for free ([RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/#download)). Read up on the latest version [here](https://blog.rstudio.com/2021/01/19/announcing-rstudio-1-4/).
-    
-+ The R packages we will use, which you can install by connecting to the internet, opening RStudio, and running at the command line:
+![bronze](featured.jpg)<br>
+[A Large Bronze Figure of Padmasambhava](https://www.christies.com/lot/lot-6362044?ldp_breadcrumb=back&intObjectID=6362044&from=salessummary&lid=1)
+<br>Executed by a Tibetan artist in the 18th century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 27,720 in March 2022.
 
-    ```r
-    > install.packages(c("usethis", "remotes", "distill", 
-                       "postcards", "blogdown"))
-    ```
-    
-    You'll also need to install the development version of the `rmarkdown` package:
-    
-    ```r
-    > remotes::install_github("rmarkdown")
-    ```
+![lion](featured.jpg)<br>
+[A Rare Mottled Red Sandstone Lion Capital](https://www.christies.com/lot/lot-6362061?ldp_breadcrumb=back&intObjectID=6362061&from=salessummary&lid=1)
+<br>Executed by an Indian (Mathura) artist in the 2nd century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 27,720 in March 2022.
 
-## Install Hugo
+![frieze](featured.jpg)<br>
+[A Red Sandstone Frieze with Musicians](https://www.christies.com/lot/lot-6362063?ldp_breadcrumb=back&intObjectID=6362063&from=salessummary&lid=1)
+<br>Executed by an Indian (Mathura) artist in the 2nd century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 27,720 in March 2022.
 
-To use blogdown, please install Hugo:
-```r
-> blogdown::install_hugo()
-```
+![river](featured.jpg)<br>
+[A Buff Sandstone Doorjamb with River Goddess and Attendant](https://www.christies.com/lot/lot-6362064?ldp_breadcrumb=back&intObjectID=6362064&from=salessummary&lid=1)
+<br>Executed by an Indian (Rajasthan or Madhya Pradesh) artist in the 10th-11th century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 25,200 in March 2022.
 
-And ensure your current version is at least as high as:
-```r
-> hugo_version()
-[1] ‘0.79.0’
-```
+![shiva](featured.jpg)<br>
+[A Bronze Figure of Shiva](https://www.christies.com/lot/lot-6362071?ldp_breadcrumb=back&intObjectID=6362071&from=salessummary&lid=1)
+<br>Executed by an Indian (Tamil Nadu) artist in the 17th century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 37,800 in March 2022.
 
-## Check pandoc
+![buddha](featured.jpg)<br>
+[A Rare Stone Head of Buddha](https://www.christies.com/lot/lot-6362075?ldp_breadcrumb=back&intObjectID=6362075&from=salessummary&lid=1)
+<br>Executed by a Thai artist in the 8th-9th century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 44,100 in March 2022.
 
-The RStudio IDE bundles an updated version of pandoc- if you did install v1.4 of the IDE, you should be all set!
+![buddha](featured.jpg)<br>
+[A Bronze Figure of Buddha](https://www.christies.com/lot/lot-6362077?ldp_breadcrumb=back&intObjectID=6362077&from=salessummary&lid=1)
+<br>Executed by a Thai artist in the 13th-14th century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 12,600 in March 2022.
 
-```r
-> rmarkdown::pandoc_version()
-[1] ‘2.11.3’
-```
+![yantra](featured.jpg)<br>
+[A Painting of a Purushkara Yantra](https://www.christies.com/lot/lot-6362109?ldp_breadcrumb=back&intObjectID=6362109&from=salessummary&lid=1)
+<br>Executed by an Indian (Rajasthan or Gujarat) artist in the 18th century.<br> Sold in the Indian, Himalayan, and Southeast Asian Works of Art Sale for 15,120 in March 2022.
+
+## Modern & Impressionist 
+
+![Redon](featured.jpg)<br>
+[Vase de Fleurs](https://www.christies.com/lot/lot-6369515?ldp_breadcrumb=back&intObjectID=6369515&from=salessummary&lid=1)
+<br>Executed by Odilon Redon.<br> Sold in the Impressionist & Modern Works on Paper and Day Sale for $504,000 in May 2022.
