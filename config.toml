@@ -105,7 +105,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Writing"
     title = "Writing"
-    url = "/talk/"
+    url = "/writing/"
     weight = 4
   [[menu.header]]
     name = "Inspiration"
