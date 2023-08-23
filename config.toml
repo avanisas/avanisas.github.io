@@ -110,7 +110,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Inspiration"
     title = "Inspiration"
-    url = "/collection/"
+    url = "/inspo/"
     weight = 5
     
   # Configure footer  
