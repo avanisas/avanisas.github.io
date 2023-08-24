@@ -25,7 +25,7 @@ My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and
 ![Story of a Brush](brush-cover.jpg)
 ![Portrait](portrait.jpg)
 
-Published by the Pundole Gallery in 1983, <i>Story of a Brush</i> commemorates Maqbool Fida Husain's twenty-year relationship with the gallery. Part autobiography, part philososphical meditation, and part marketing material, <i>Story of a Brush</i> is a distinct and difficult-to-define book that starkly contrasts with the typical notion that artists books are created outside of institutional settings and the art market. The book tells the story of Husain's life and art career in his characteristically ambiguous fashion, often anthropomorphizing the brush itself. <i>Story of a Brush</i> is a key example of Husain's interest in writing his own art history, one that eschews any easy definitions of his own identity. 
+Published by the Pundole Gallery in 1983, <i>Story of a Brush</i> commemorates Maqbool Fida Husain's twenty-year relationship with the gallery. Part autobiography, part philosophical meditation, and part marketing material, <i>Story of a Brush</i> is a distinct and difficult-to-define book that starkly contrasts with the typical notion that artists books are created outside of institutional settings and the art market. The book tells the story of Husain's life and art career in his characteristically ambiguous fashion, often anthropomorphizing the brush itself. <i>Story of a Brush</i> is a key example of Husain's interest in writing his own art history, one that eschews any easy definitions of his own identity. 
 
 ## The Incomplete Thombu
 
