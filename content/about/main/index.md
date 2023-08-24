@@ -18,7 +18,7 @@ intro: |
   
   At the same time, I received the Andree F. Sjoberg Scholarship for Dravidian Studies, a full-tuition scholarship to attend the [South Asia Summer Language Institute](https://liberalarts.utexas.edu/southasia/language-program/) at UT Austin. With this scholarship, I completed First-Year Kannada I and II as summer intensive classes. Commonly spoken in Karnataka, India, Kannada is my family's mother tongue and I was excited to formally study it. Completing a language intensive, working full-time, and preparing for my big post-grad move took a lot of work, but it was absolutely worth it! 
   
-  May 2021: I graduated summa cum laude from Trinity with a B.A. in Art History (Honors) and a Minor in History. I wrote my honors thesis about British photographer Mahtab Husain - you can learn more about that project [here](/undergraduate-thesis). 
+  May 2021: I graduated summa cum laude from Trinity with a B.A. in Art History (Honors) and a Minor in History. I wrote my honors thesis about British photographer Mahtab Husain - you can learn more about that project [here](/writing/undergraduate-thesis). 
   
   August 2020: I completed the Curatorial Fellowship. My culminating project consisted of two curatorial projects, Synthetic Anatomies and Capturing the Subcontinent, which you can learn more about [here](/curatorial/). 
   
