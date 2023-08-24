@@ -2,7 +2,7 @@
 action_label: Learn More About Me &rarr;
 action_link: /about
 action_type: text
-description: Writer, art historian,  graduate student at the University of Texas, Austin. <p><b>SITE CURRENTLY UNDER CONSTRUCTION</b>
+description: Writer, art historian,  graduate student at the University of Texas, Austin.
 image_left: true
 images:
 - img/new.png

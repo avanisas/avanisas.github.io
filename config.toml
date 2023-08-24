@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/AS.png  "
-  logo = "/img/AS.png"
+  favicon = "/img/AVANI SASTRY.png"
+  logo = "/img/AVANI SASTRY.png"
   mainSections = ["blog", "project", "talk", "collection"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -114,21 +114,8 @@ enableEmoji = true
     weight = 5
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
