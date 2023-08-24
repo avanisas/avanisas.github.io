@@ -16,7 +16,7 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: 
-  description: "Projects I completed as a Mellon Undergraduate Curatorial Fellow at the Museum of Fine Arts, Houston.<br>Pictured Above: Nakashima Harumi, Work-0808, 2008
+  description: "I completed these two projects for my Mellon Undergraduate Curatorial Fellowship. These are both permanent gallery installations, essentially mini-exhibitions drawing on the museum's permanent collection that were featured in the Asian Art department's dedicated gallery spaces. These two projects were a highlight of my career so far; I loved every aspect of curating these installations, from the initial research, to writing the object labels, to designing the layout. It was all so exciting and fun.  <br><br>Pictured Above: Nakashima Harumi, <i>Work-0808,</i> 2008
   "
   show_sidebar_adunit: false
   text_link_label: ""

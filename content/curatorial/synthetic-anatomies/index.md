@@ -1,6 +1,6 @@
 ---
 draft: false
-excerpt: Synthetic Anatomies was the culmination of my two-year curatorial fellowship. After the Asian Art department received a gift of historic and contemporary East Asian art from Gabrielle Lurie, I researched and wrote acquisition reports for every work in the collection. Afterwards, I identified key works ideal for display, and put together a one-year installation juxtaposing Lurie's gifts with other key objects from the permanent collection. The installation highlights historic and contemporary East Asian artists who idealize, distort, or abstract the body, exploring how nonrealistic depictions of the figure reflect changing social mores and responses to universal realities like war, trauma, and immigration.  
+excerpt: <i>Synthetic Anatomies</i> was the culmination of my two-year curatorial fellowship. After the Asian Art department received a gift of historic and contemporary East Asian art from Gabrielle Lurie, I researched and wrote acquisition reports for every work in the collection. Afterwards, I identified key works ideal for display, and put together a one-year installation juxtaposing Lurie's gifts with other key objects from the permanent collection. The installation highlights historic and contemporary East Asian artists who idealize, distort, or abstract the body, exploring how nonrealistic depictions of the figure reflect changing social mores and responses to universal realities like war, trauma, and immigration.  
 layout: single
 subtitle: On View May 2021 - May 2022 
 title: Synthetic Anatomies

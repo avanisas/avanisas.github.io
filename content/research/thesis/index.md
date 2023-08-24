@@ -2,8 +2,6 @@
 draft: false
 layout: single
 subtitle: Artists Books as Alternative Historical Method in South Asia
-tags:
-- hugo-site
 title: You Don't Read a Book, You Speak Into It
 excerpt: My thesis considers two artists books, M.F. Husain's <i>Story of a Brush</i> and Thamotharampillai Shanaathanan's <i>The Incomplete Thombu</i> as explorations of alternative methods of narrativizing history, providing insight into how art and text can work together to represent the complexity of modern South Asian history. In analyzing these two books, I hope to draw attention to the significance of the artists book as a unique repository for memory and storytelling that exists outside of nationalist history.
 ---
